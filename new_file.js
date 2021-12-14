@@ -1,1 +1,1 @@
-console.log("colored cow");
+console.log("kec!");
